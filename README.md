@@ -1,2 +1,2 @@
 # CodeForces
-Here are the codes of my programs for the codeforces competition.
+Here are the some of codes of my programs for the codeforces competition.
